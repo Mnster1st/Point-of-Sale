@@ -11,8 +11,6 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 - Manajemen Produk
   - Multiple Delete
   - Cetak Barcode
-- Manajemen Member atau Anggota
-  - Cetak Kartu Member
 - Manajemen Supplier
 - Transaksi Pengeluaran
 - Transaksi Pembelian
@@ -25,12 +23,7 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
   - Nota Besar
   - Nota Kecil / Thermal Nota
 - Manajemen User dan Profil
-- Pengaturan Toko
-  - Identitas
-  - Upload Desain Kartu Member
-  - Setting Diskon Member
 - User (Administrator, Kasir)
-- Grafik ChartJS pada Dashboard
 
 ## Instalasi
 #### Via Git
