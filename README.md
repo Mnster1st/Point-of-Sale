@@ -19,9 +19,6 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
   - Bulanan
   - Harian
   - Custom Tanggal
-- Custom Tipe Nota
-  - Nota Besar
-  - Nota Kecil / Thermal Nota
 - Manajemen User dan Profil
 - User (Administrator, Kasir)
 
